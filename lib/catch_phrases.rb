@@ -1,7 +1,8 @@
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts s-a me, Mario!"
-endphrase "It'
+  phrase = 
+  puts phrase
+end
 phrase
 def toadstool
   puts status
